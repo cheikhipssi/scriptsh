@@ -1,0 +1,14 @@
+45
+78
+96
+15
+75
+24
+47
+86
+33
+21
+Somme des valeurs : 520
+Nombre de lignes : 10
+Valeur minimale : 15
+Valeur maximale : 96
